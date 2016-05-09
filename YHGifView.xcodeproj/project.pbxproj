@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		29A63F341CE1229800D66BCA /* YHGifView.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 29A63F331CE1229800D66BCA /* YHGifView.podspec */; };
 		29E646021CB35B0700BAAF1A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29E646011CB35B0700BAAF1A /* main.m */; };
 		29E646051CB35B0700BAAF1A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 29E646041CB35B0700BAAF1A /* AppDelegate.m */; };
 		29E646081CB35B0700BAAF1A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 29E646071CB35B0700BAAF1A /* ViewController.m */; };
@@ -43,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		29A63F331CE1229800D66BCA /* YHGifView.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = YHGifView.podspec; sourceTree = "<group>"; };
 		29E645FD1CB35B0700BAAF1A /* YHGifView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YHGifView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		29E646011CB35B0700BAAF1A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		29E646031CB35B0700BAAF1A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 		29E645FF1CB35B0700BAAF1A /* YHGifView */ = {
 			isa = PBXGroup;
 			children = (
+				29A63F331CE1229800D66BCA /* YHGifView.podspec */,
 				29E646351CB35B7600BAAF1A /* GifView */,
 				29E646331CB35B5500BAAF1A /* Info.plist */,
 				29E646031CB35B0700BAAF1A /* AppDelegate.h */,
@@ -284,6 +287,7 @@
 				29E646401CB391C200BAAF1A /* gif3.gif in Resources */,
 				29E6463E1CB391C200BAAF1A /* gif1.gif in Resources */,
 				29E6460D1CB35B0700BAAF1A /* Assets.xcassets in Resources */,
+				29A63F341CE1229800D66BCA /* YHGifView.podspec in Resources */,
 				29E6463F1CB391C200BAAF1A /* gif2.gif in Resources */,
 				29E6460B1CB35B0700BAAF1A /* Main.storyboard in Resources */,
 				29E646461CB41EE200BAAF1A /* gif4.gif in Resources */,
