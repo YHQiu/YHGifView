@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		29A63F321CE11AC200D66BCA /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 29A63F311CE11AC200D66BCA /* README.md */; };
 		29E646021CB35B0700BAAF1A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29E646011CB35B0700BAAF1A /* main.m */; };
 		29E646051CB35B0700BAAF1A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 29E646041CB35B0700BAAF1A /* AppDelegate.m */; };
 		29E646081CB35B0700BAAF1A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 29E646071CB35B0700BAAF1A /* ViewController.m */; };
@@ -43,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		29A63F311CE11AC200D66BCA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		29E645FD1CB35B0700BAAF1A /* YHGifView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YHGifView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		29E646011CB35B0700BAAF1A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		29E646031CB35B0700BAAF1A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 		29E645F41CB35B0700BAAF1A = {
 			isa = PBXGroup;
 			children = (
+				29A63F311CE11AC200D66BCA /* README.md */,
 				29E645FF1CB35B0700BAAF1A /* YHGifView */,
 				29E646191CB35B0700BAAF1A /* YHGifViewTests */,
 				29E646241CB35B0700BAAF1A /* YHGifViewUITests */,
@@ -312,6 +315,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				29A63F321CE11AC200D66BCA /* README.md in Sources */,
 				29E646491CB5563500BAAF1A /* NextViewController.m in Sources */,
 				29E6463A1CB35F3400BAAF1A /* YHGifView.m in Sources */,
 				29E646081CB35B0700BAAF1A /* ViewController.m in Sources */,
